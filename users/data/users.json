@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Dunieski",
+      "lastname": "Otano",
+      "address": "12345 NW 145th Ave",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33173"
+    },
+    {
+      "id": 2,
+      "firstname": "Yanet",
+      "lastname": "Perez",
+      "address": "12345 NW 145th Ave",
+      "city": "Madison",
+      "state": "TN",
+      "zip": "00173"
+    },
+    {
+      "id": 3,
+      "username": "orlandootano",
+      "firstname": "Orlando",
+      "lastname": "Otano",
+      "address": "9098 NW 149th Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "00273"
+    },
+    {
+      "id": 4,
+      "firstname": "Martha",
+      "lastname": "Ramos",
+      "bio": "Receptionist, Housewife",
+      "address": "5768 Main Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78456"
+    },
+    {
+      "id": 5,
+      "username": "lazaroperez",
+      "firstname": "Lazaro",
+      "lastname": "Perez",
+      "address": "4728 NW 45th Ave",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "zip": "45173"
+    },
+    {
+      "id": 6,
+      "firstname": "Marlen",
+      "lastname": "Menendez",
+      "address": "12885 NW 115th Ave",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "58173"
+    },
+    {
+      "id": 7,
+      "firstname": "Yara",
+      "lastname": "Valdez",
+      "address": "3333 Main Street",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "78456"
+    }
+  ]
+}

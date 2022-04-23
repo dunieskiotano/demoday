@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Jeans",
+      "product_price": 89.99,
+      "product_manufacterer": "Abercrombie & Fitch",
+      "product_quantity_in_stock": 450
+    },
+    {
+      "id": 2,
+      "product_name": "Shirt",
+      "product_price": 10.99,
+      "product_manufacterer": "American Eagle",
+      "product_quantity_in_stock": 350
+    },
+    {
+      "id": 3,
+      "product_name": "Shoes",
+      "product_price": 59.99,
+      "product_manufacterer": "Hollister",
+      "product_quantity_in_stock": 250
+    },
+    {
+      "id": 4,
+      "product_name": "Belt",
+      "product_price": 21.99,
+      "product_manufacterer": "Tiffany & Co.",
+      "product_quantity_in_stock": 150
+    },
+    {
+      "id": 5,
+      "product_name": "Briefs",
+      "product_price": 19.99,
+      "product_manufacterer": "Zara",
+      "product_quantity_in_stock": 400
+    },
+    {
+      "id": 6,
+      "product_name": "Swimwear",
+      "product_price": 50.99,
+      "product_manufacterer": "Lacoste",
+      "product_quantity_in_stock": 500
+    },
+    {
+      "id": 7,
+      "product_name": "Sweater",
+      "product_price": 99.99,
+      "product_manufacterer": "Nautica",
+      "product_quantity_in_stock": 600
+    }
+  ]
+}

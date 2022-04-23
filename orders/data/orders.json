@@ -1,0 +1,72 @@
+{
+    "orders": [
+      {
+        "id": 1,
+        "order_date": "2022-01-01",   
+        "order_product": "Apple MacBook Pro 16 inch Silver",
+        "order_product_price": 1399.99,
+        "orders_qty": 1,
+        "order_tax": 97.99,
+        "order_total": 1497.98,       
+        "user_id": 1
+      },
+      {
+        "id": 2,
+        "order_date": "2022-02-02",
+        "order_product": "Apple MacBook Air",
+        "order_product_price": 399.99,
+        "orders_qty": 1,
+        "order_tax": 27.99,
+        "order_total": 427.98,       
+        "user_id": 1
+      },
+      {
+        "id": 3,
+        "order_date": "2022-03-03",
+        "order_total": 99.99,
+        "orders_qty": 1,
+        "order_product": "Thunderbolt Dock",
+        "user_id": 2
+      },
+      {
+        "id": 4,
+        "order_date": "2022-4-04",
+        "order_total": 199.99,
+        "orders_qty": 3,
+        "order_product": "Rechargeable Batteries",
+        "user_id": 3
+      },
+      {
+        "id": 5,
+        "order_date": "2022-04-15",
+        "order_total": 9.99,
+        "orders_qty": 4,
+        "order_product": "Smart Pens",
+        "user_id": 4
+      },
+      {
+        "id": 6,
+        "order_date": "2022-04-15",
+        "order_total": 19.99,
+        "orders_qty": 2,
+        "order_product": "Smart Cards",
+        "user_id": 3
+      },
+      {
+        "id": 7,
+        "order_date": "2022-04-19",
+        "order_total": 79.99,
+        "orders_qty": 1,
+        "order_product": "Smart Pets",
+        "user_id": 6
+      },
+      {
+        "id": 8,
+        "order_date": "2022-04-21",
+        "order_total": 879.99,
+        "orders_qty": 2,
+        "order_product": "Smart Pets",
+        "user_id": 7
+      }
+    ]
+  }
